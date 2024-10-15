@@ -83,7 +83,7 @@ Todos os arquivos necessários para as transformações, pipelines (jobs) e o sc
 ### 🧰 Ferramentas Utilizadas
 
 - **Banco de Dados**: MySQL 8.0.30
-- **ETL**: Pentaho Data Integration (PDI)
+- **ETL**: Pentaho Data Integration (PDI) 9.4
 - **IDE para Consultas**: DBeaver
 
 ## 📝 Observações Finais
